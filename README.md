@@ -1,6 +1,6 @@
 # Exercism solutions
 
-This repository contains my solutions to the Exercism challenges. The Python ones are my own and the JavaScript ones have been pair programmed with @jblower1
+This repository contains solutions to the Exercism challenges. The Python ones are my own and the JavaScript ones have been pair programmed with @jblower1
 
 ## Installation instructions
 
