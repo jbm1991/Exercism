@@ -8,4 +8,4 @@ Each problem has its own README with instructions
 
 ## Licensing, etc
 
-All credit goes to [Exercism.io](https://exercism.io/) for the problems, so please see their website for further information. The solutions themselves are by me, and therefore under MIT.
+All credit goes to [Exercism.io](https://exercism.io/) for the problems, so please see their website for further information. The solutions themselves are by us, and are therefore under MIT.
